@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "718329898515",
+    "firebase_url": "https://qeti-402a2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "qeti-402a2",
+    "storage_bucket": "qeti-402a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718329898515:android:21346a59dfb436441c81e6",
+        "android_client_info": {
+          "package_name": "com.finaluri.qetifinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718329898515-7uv52fqkk0c94i0k67j1898d1l81uvbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9g0LlnkJpol12P_mtKaovRu6kHsib4zA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718329898515-7uv52fqkk0c94i0k67j1898d1l81uvbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718329898515:android:e0433d19ed85bde71c81e6",
+        "android_client_info": {
+          "package_name": "com.finaluri.qetifinaluri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718329898515-7uv52fqkk0c94i0k67j1898d1l81uvbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9g0LlnkJpol12P_mtKaovRu6kHsib4zA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718329898515-7uv52fqkk0c94i0k67j1898d1l81uvbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
